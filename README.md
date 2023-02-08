@@ -7,9 +7,10 @@ The file format is in a simple and standard S-expression format so some script c
 
 
 ## Goals & Scripts
-[x] Change the visibility of part fields
-[ ] Map annotations of a hierarchical schematic sheet
-[ ] Auto cleanup of an imported Diptrace -> Eagle -> Kicad schematic
+
++ [x] Change the visibility of part fields
++ [ ] Map annotations of a hierarchical schematic sheet
++ [ ] Auto cleanup of an imported Diptrace -> Eagle -> Kicad schematic
 
 ## Resources
 + [KiCAD S-Expressions: https://dev-docs.kicad.org/en/file-formats/sexpr-intro/index.html](https://dev-docs.kicad.org/en/file-formats/sexpr-intro/index.html)
