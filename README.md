@@ -1,5 +1,8 @@
 # eeschema-script-control
 
+Currently not in development. Checkout this repo for a similar idea: 
+https://github.com/psychogenic/kicad-skip
+
 There isn't currently a way to script Kicad's schematic entry in the way the PCB layout can be.
 However the file format is a standard format, it's well documented, and simple which makes it a relatively straight forward task to perform scripting tasks by editing the file directly.
 
